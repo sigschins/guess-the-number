@@ -1,5 +1,5 @@
 // Offline support for guess-the-number — precaches every asset, network-first for the page itself.
-const CACHE = 'guess-the-number-BtzfxUvh';
+const CACHE = 'guess-the-number-DeS7V-yA';
 const ASSETS = [
   "/guess-the-number/",
   "/guess-the-number/index.html",
@@ -7,7 +7,7 @@ const ASSETS = [
   "/guess-the-number/icon-192.png",
   "/guess-the-number/icon-512.png",
   "/guess-the-number/assets/index-BVIPMIHE.css",
-  "/guess-the-number/assets/index-BtzfxUvh.js",
+  "/guess-the-number/assets/index-DeS7V-yA.js",
   "/guess-the-number/assets/number-game-DkJeuW07.png"
 ];
 
